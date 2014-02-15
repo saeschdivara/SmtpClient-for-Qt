@@ -7,7 +7,7 @@
 QT       += core gui network
 
 TARGET = SMTPEmail
-TEMPLATE = app
+TEMPLATE = lib
 
 
 SOURCES += \
